@@ -1,6 +1,6 @@
 # people
 
-[hacker people working with me]<br>
+[hacker&&developer people working with me]<br>
 
 (All global best white hackers/developer in around the internet)<br>
 
