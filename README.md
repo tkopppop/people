@@ -10,7 +10,7 @@
 - spender (brad)<br>
   - france linux kernel developer (grsecurity.net)<br>
     (I worked for 'enlightenment' linux kernel exploit framework)<br>
-    (6 years write linux kernel exploits and released in isec.pl as a researcher director)<br>
+    (6 years write linux kernel exploits and released in isec.pl as a research director)<br>
     (ext4_exp.tar.gz also my 1day exploit)
 - rebel (phillip peterson)<br>
   - swedish hacker ctf team of hfs leader<br>
