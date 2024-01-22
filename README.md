@@ -6,8 +6,8 @@
   - brasil hacker contributer<br>
     (I help to edit an submit his phrack.com article)<br>
 - spender (brad spengler)<br>
+  - france linux kernel developer (grsecurity.net)<br>
     (I worked for 'enlightenment' linux kernel exploit framework)<br>
-  france linux kernel developer (grsecurity.net)<br>
 - rebel (phillip peterson)<br>
   - swedish hacker ctf team of hfs leader<br>
     (he invite his operator channel of #vortex @x90c of overthewire.org)<br>
