@@ -1,7 +1,9 @@
 # people
 
-[hacker people working with me]
+[hacker people working with me<br>
 
+(All global best white hackers/developer in around the internet)<br>
+<br>
 - bsdaemon (rodrigo)
   - brasil hacker contributer<br>
     (I help to edit a original paper then submit his phrack.com article)<br>
