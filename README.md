@@ -25,6 +25,11 @@
   - best issued phrack.com article's co-owner and amazon book author<br>
     (i help to edit 4 months his articles to amazon pdf ebook("Attacking the core") and registered on amazon<br>
     then lastly, they(twiz&sgrakkyu) made paperback too)
+- dan rosenberg<br>
+  - linux kernel hacker
+    (i help to give a research blog to share to his personal site)
+    (http://vulnfactory.org/blog/2011/09/21/defeating-windows-8-rop-mitigation/)
+    ( reversing + bypass idea = defeat the win8 rop mitigation )
     
 [singer lesson for me]
 - kim sun hyung<br>
