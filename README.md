@@ -19,6 +19,10 @@
 - Xpl017Elz (yoo dong hun)<br>
   - korean best 1337 hacker and CEO(s)<br>
     (i worked as a vulnerability researcher of INETCOP(c).co.kr company's code research team)<br>
+- twiz<br>
+  - best issued phrack.com article's co-owner and amazon book author<br>
+    (i help to edit his articles to amazon pdf ebook and registered on amazon then lastly,<br>
+    they(twiz&sgrakkyu) sales paperback)
     
 [singer lesson for me]
 - kim sun hyung<br>
