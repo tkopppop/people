@@ -27,8 +27,8 @@
     then lastly, they(twiz&sgrakkyu) made paperback too)
 - dan rosenberg<br>
   - linux kernel hacker
-    (i help to give a research blog to share to his personal site)
-    (http://vulnfactory.org/blog/2011/09/21/defeating-windows-8-rop-mitigation/)
+    (i help to give a research blog to share to his personal site)<br>
+    (http://vulnfactory.org/blog/2011/09/21/defeating-windows-8-rop-mitigation/)<br>
     ( reversing + bypass idea = defeat the win8 rop mitigation )
     
 [singer lesson for me]
