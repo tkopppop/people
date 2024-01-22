@@ -28,4 +28,4 @@
     
 [singer lesson for me]
 - kim sun hyung<br>
-  (he knows me as a vocal student 'jung su hyun')<br>
+  (he knows me as a vocal student 'jung su hyun' and he known a famous global hacker)<br>
