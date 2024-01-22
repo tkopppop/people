@@ -7,7 +7,7 @@
 - bsdaemon (rodrigo)
   - brasil hacker contributer<br>
     (I help to edit a original paper then submit his phrack.com article)<br>
-- spender (brad spengler)<br>
+- spender (brad)<br>
   - france linux kernel developer (grsecurity.net)<br>
     (I worked for 'enlightenment' linux kernel exploit framework)<br>
 - rebel (phillip peterson)<br>
