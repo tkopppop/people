@@ -23,7 +23,8 @@
     (i worked as a vulnerability researcher of INETCOP(c).co.kr company's code research team)<br>
 - twiz<br>
   - best issued phrack.com article's co-owner and amazon book author<br>
-    (i help to edit 4 months his articles to amazon pdf ebook("Attacking the core") and registered on amazon then lastly, they(twiz&sgrakkyu) made paperback too)
+    (i help to edit 4 months his articles to amazon pdf ebook("Attacking the core") and registered on amazon<br>
+    then lastly, they(twiz&sgrakkyu) made paperback too)
     
 [singer lesson for me]
 - kim sun hyung<br>
