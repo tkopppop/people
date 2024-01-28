@@ -20,7 +20,7 @@
     (i'd found a linux userland zeroday to send it and he made exploit and get cve(vulnerability id)<br>
 - Xpl017Elz (yoo dong hun)<br>
   - korean best 1337 hacker and CEO(s)<br>
-    (i worked as a vulnerability researcher of INETCOP(c).co.kr company's code research team)<br>
+    (i worked as a vulnerability researcher of INETCOP(c).co.kr company's code research team for totaly 1 year)<br>
 - twiz<br>
   - best issued phrack.com article's co-owner and amazon book author<br>
     (i help to edit 4 months his articles to amazon pdf ebook("Attacking the core") and registered on amazon<br>
