@@ -9,7 +9,7 @@
     (I help to edit a original paper then submit his phrack.com article)<br>
 - spender (brad)<br>
   - france linux kernel developer (grsecurity.net)<br>
-    (I worked for 'enlightenment' linux kernel exploit framework)<br>
+    (I worked for 'enlightenment'(https://www.exploit-db.com/exploits/9627) linux kernel exploit framework)<br>
     (6 years write linux kernel exploits and released in isec.pl as a research director)<br>
     (ext4_exp.tgz also my 1day exploit)
 - rebel (phillip peterson)<br>
