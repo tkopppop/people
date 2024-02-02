@@ -1,7 +1,7 @@
 # people
 
-[hacker&&developer people worked with me]<br> (i'm super proud of my hacking techniques and exploits)*<br>
-( I respected to the global hacker/programmer and talent singer)*
+[hacker&&developer people worked with me]<br> (i'm super proud of my hacking techniques and exploits)<br>
+( I respected to the global hacker/programmer and talent singer )
 
 (All global best white hackers/developer in around the internet)<br>
 
