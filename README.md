@@ -1,6 +1,6 @@
 # people
 
-[hacker&&developer people worked with me]<br> (i'm super pround of my hacking techniques and exploits)
+[hacker&&developer people worked with me]<br> (i'm super proud of my hacking techniques and exploits)
 
 (All global best white hackers/developer in around the internet)<br>
 
