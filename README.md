@@ -5,7 +5,7 @@
 
 (All global best white hackers/developer in around the internet)<br>
 
-- bsdaemon (rodrigo)
+- BSDaemon (rodrigo)
   - brasil hacker contributer<br>
     (I help to edit a original paper then submit his phrack.com article)<br>
 - spender (brad)<br>
