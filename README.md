@@ -15,7 +15,7 @@
     (ext4_exp.tgz(https://www.exploit-db.com/exploits/33395) also my 1day exploit)
 - rebel (phillip peterson)<br>
   - swedish hacker ctf team of hfs leader<br>
-    (he invite me in his operator irc channel of #vortex @x90c of overthewire.org)<br>
+    (he invite me in his operator irc channel of #vortex @x90c, #social of overthewire.org)<br>
 - stealth (sebastian)<br>
   - team teso speicial member and android rooting exploit researcher<br>
     (i'd found a linux userland zeroday to send it and he made exploit and get cve(vulnerability id)<br>
