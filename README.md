@@ -6,15 +6,15 @@
 (All global best white hackers/developer in around the internet)<br>
 
 - BSDaemon (rodrigo)
-  - brasil hacker contributer<br>
-    (I help to edit a original paper then submit his phrack.com article)<br>
+  - brasil hacker conference H2HC contributer<br>
+    (I'd help to edit a original paper for phrack submission then submit his phrack.com article as a TCLH leader)<br>
 - spender (brad)<br>
   - france linux kernel developer (grsecurity.net)<br>
     (I worked for 'enlightenment'(https://www.exploit-db.com/exploits/9627) linux kernel exploit framework)<br>
     (6 years write linux kernel exploits and released in isec.pl as a research director)<br>
-    (ext4_exp.tgz(https://www.exploit-db.com/exploits/33395) also my 1day exploit)
+    (ext4_exp.tgz(https://www.exploit-db.com/exploits/33395) also my 1day exploit, this bug is up on gitstream and i'd made 1day exploit)
 - rebel (phillip peterson)<br>
-  - swedish hacker ctf team of hfs leader<br>
+  - swedish hacker ctf team of hfs(hack for soju) leader<br>
     (he invite me in his operator irc channel of #vortex @x90c, #social of overthewire.org)<br>
 - stealth (sebastian)<br>
   - team teso speicial member and android rooting exploit researcher<br>
