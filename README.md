@@ -7,7 +7,7 @@
 
 - BSDaemon (rodrigo)
   - brasil hacker conference H2HC contributer<br>
-    (I'd help to edit a original paper for phrack submission then submit his phrack.com article as a TCLH leader)<br>
+    (I'd help to edit a original paper for phrack submission as TCLH leader then submit his phrack.com article)<br>
 - spender (brad)<br>
   - france linux kernel developer (grsecurity.net)<br>
     (I worked for 'enlightenment'(https://www.exploit-db.com/exploits/9627) linux kernel exploit framework)<br>
