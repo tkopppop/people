@@ -36,6 +36,6 @@
 <br>
 - I know 2000 years from known korean local hackers some, all korean junior hackers and have fun hack days always!~ thanks!<br>
  <br>
-[singer lesson for me]
+[singer lesson for me]<br>
 - kim sun hyung<br>
   (he knows me as a vocal student and he known a famous global hacker for me)<br>
