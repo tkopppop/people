@@ -33,7 +33,9 @@
     (i help to give a research blog to share to his personal site)<br>
     (http://vulnfactory.org/blog/2011/09/21/defeating-windows-8-rop-mitigation/)<br>
     ( reversing + bypass idea = defeat the win8 rop mitigation )
-    
+<br>
+- I know 2000 years from known korean local hackers some, all korean junior hackers and have fun hack days always!~ thanks!<br>
+ <br>
 [singer lesson for me]
 - kim sun hyung<br>
   (he knows me as a vocal student and he known a famous global hacker for me)<br>
