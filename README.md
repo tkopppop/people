@@ -24,5 +24,4 @@
 
 (All global best white hackers/developer in around the internet)<br>
 i'd made 1day exploit)
-<br>
-- I know 2000 years from known korean local hackers some, all korean junior hackers and have fun hack days always!~ thanks!<br>
+
