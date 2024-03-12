@@ -23,31 +23,23 @@
 ( I respected to the global hacker/programmer and talent singer )
 
 (All global best white hackers/developer in around the internet)<br>
-
-- BSDaemon (rodrigo)
-  - brasil hacker conference H2HC contributer<br>
-    (I'd help to edit a original paper for phrack submission as TCLH leader then submit his phrack.com article)<br>
-- spender (brad)<br>
-  - france linux kernel developer (grsecurity.net)<br>
-    (I worked for 'enlightenment'(https://www.exploit-db.com/exploits/9627) linux kernel exploit framework)<br>
-    (6 years write linux kernel exploits and released in isec.pl as a research director)<br>
-    (ext4_exp.tgz(https://www.exploit-db.com/exploits/33395) also my 1day exploit, this bug is up on gitstream and i'd made 1day exploit)
-- rebel (phillip peterson)<br>
+i'd made 1day exploit)
+- rebolbo (phillip peterson)<br>
   - swedish hacker ctf team of hfs(hack for soju) leader<br>
     (he invited me in his operator irc channel of #vortex @x90c, #social of overthewire.org in 2004)<br>
-- stealth (sebastian)<br>
+- stick (sebastian)<br>
   - team teso speicial member and android rooting exploit researcher<br>
     (i'd found a linux userland zeroday to send it and he made exploit and get cve(vulnerability id)<br>
     (https://packetstormsecurity.com/files/123897/KDE-TOCTOU-Vulnerability-Case-Study.html)<br>
-- Xpl017Elz (yoo dong hun)<br>
+- 017E (you)<br>
   - korean best 1337 hacker and CEO(s)<br>
     (i worked as a vulnerability researcher of INETCOP(c).co.kr company's code research team for totaly 1 year)<br>
     (he is securion.co.kr also ceo and Ph.D)
-- twiz<br>
+- twi **<br>
   - best issued phrack.com article's co-owner and amazon book author<br>
     (i help to edit 4 months his articles to amazon pdf ebook("Attacking the core") and registered on amazon<br>
     then lastly, they(twiz&sgrakkyu) made paperback too)
-- dan rosenberg<br>
+- DAro<br>
   - linux kernel hacker
     (i help to give a research blog to share to his personal site)<br>
     (http://vulnfactory.org/blog/2011/09/21/defeating-windows-8-rop-mitigation/)<br>
