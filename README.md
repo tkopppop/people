@@ -24,29 +24,5 @@
 
 (All global best white hackers/developer in around the internet)<br>
 i'd made 1day exploit)
-- rebolbo (phillip peterson)<br>
-  - swedish hacker ctf team of hfs(hack for soju) leader<br>
-    (he invited me in his operator irc channel of #vortex @x90c, #social of overthewire.org in 2004)<br>
-- stick (sebastian)<br>
-  - team teso speicial member and android rooting exploit researcher<br>
-    (i'd found a linux userland zeroday to send it and he made exploit and get cve(vulnerability id)<br>
-    (https://packetstormsecurity.com/files/123897/KDE-TOCTOU-Vulnerability-Case-Study.html)<br>
-- 017E (you)<br>
-  - korean best 1337 hacker and CEO(s)<br>
-    (i worked as a vulnerability researcher of INETCOP(c).co.kr company's code research team for totaly 1 year)<br>
-    (he is securion.co.kr also ceo and Ph.D)
-- twi **<br>
-  - best issued phrack.com article's co-owner and amazon book author<br>
-    (i help to edit 4 months his articles to amazon pdf ebook("Attacking the core") and registered on amazon<br>
-    then lastly, they(twiz&sgrakkyu) made paperback too)
-- DAro<br>
-  - linux kernel hacker
-    (i help to give a research blog to share to his personal site)<br>
-    (http://vulnfactory.org/blog/2011/09/21/defeating-windows-8-rop-mitigation/)<br>
-    ( reversing + bypass idea = defeat the win8 rop mitigation )
 <br>
 - I know 2000 years from known korean local hackers some, all korean junior hackers and have fun hack days always!~ thanks!<br>
- <br>
-[singer lesson for me]<br>
-- kim * *<br>
-  (he knows me as a vocal student and he known a famous global hacker for me)<br>
