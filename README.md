@@ -1,7 +1,7 @@
 # people
 
 나는 해커 명단을 공개한다.<br>
-정경주(Tadd, tadd1<br>
+정경주(Tadd, tadd1)<br>
 토다(tAdd, tadd2)<br>
 세계의 소개할만한 두 명의 해커가 존재감.<br>
 둘 다<br>
